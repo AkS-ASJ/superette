@@ -1,0 +1,16 @@
+.list {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.pics {
+    border-radius: 5px;
+    height: 150px;
+    width: 150px;
+}
+
+.container {
+    align-items: center;
+}

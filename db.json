@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Fanta",
+      "price": 2,
+      "picture": "https://c-pi.niceshops.com/upload/image/product/large/default/45840_b68ef69a.512x512.jpg",
+      "description": "ok",
+      "quantity": 10,
+      "id": "_M8jCLv"
+    },
+    {
+      "name": "Coca",
+      "price": 2,
+      "picture": "https://c-pi.niceshops.com/upload/image/product/large/default/45789_98fd2e0a.1024x1024.jpg",
+      "description": "ok",
+      "quantity": 10,
+      "id": "rijIXS4"
+    },
+    {
+      "name": "Sprite",
+      "price": 2,
+      "picture": "https://m.media-amazon.com/images/I/51TeFnx6GRL._SL1500_.jpg",
+      "description": "ok",
+      "quantity": 7,
+      "id": "IK_CXSu"
+    },
+    {
+      "name": "Sandwich poulet",
+      "price": 3,
+      "picture": "https://www.cooxo.fr/323-large_default/americain-sandwich-poulet.jpg",
+      "description": "ok",
+      "quantity": 10,
+      "id": "IK_CXSc"
+    },
+    {
+      "name": "Sandwich thon",
+      "price": 3,
+      "picture": "https://shippini.ma/wp-content/uploads/2022/02/SANDWICH-THON-NORMAL.jpg",
+      "description": "ok",
+      "quantity": 10,
+      "id": "IK_CXSb"
+    },
+    {
+      "name": "Sandwich saumon",
+      "price": 4,
+      "picture": "https://www.lecroqenbouche.fr/cdn/shop/products/Sandwich-saumon-2048X2048.jpg?v=1667202271",
+      "description": "ok",
+      "quantity": 10,
+      "id": "IK_CXSa"
+    }
+  ]
+}
